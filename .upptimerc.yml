@@ -11,7 +11,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /shoprunback-dashboard-uptime
-  logoUrl: https://shoprunback-bucket-v3.s3.ap-southeast-1.am…om/settings/December2022/t4nsFGGr6Y5cu0NjM68Z.png
+  logoUrl: https://shoprunback-bucket-v3.s3.ap-southeast-1.amazonaws.com/settings/December2022/t4nsFGGr6Y5cu0NjM68Z.png
+  favicon: https://shoprunback-bucket-v3.s3.ap-southeast-1.amazonaws.com/settings/December2022/t4nsFGGr6Y5cu0NjM68Z.png
   name: Shoprunback
   introTitle: "**Reliable Uptime** for ShopRunBack Website."
   introMessage: At ShopRunBack, we understand the importance of having a website that is always available to meet the demands of your customers. Our platform is built with high uptime reliability, ensuring smooth operations and minimal disruptions. Whether you are tracking returns or managing logistics, you can trust ShopRunBack to deliver consistent performance and keep your business running seamlessly.
