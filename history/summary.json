@@ -22,9 +22,9 @@
     "url": "https://payment.shoprunback.com",
     "icon": "https://icons.duckduckgo.com/ip3/payment.shoprunback.com.ico",
     "slug": "shoprunback-payment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,14 +33,16 @@
     "timeWeek": 614,
     "timeMonth": 552,
     "timeYear": 568,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   },
   {
     "name": "Shoprunback-Consumer-Path",
     "url": "https://consumer-path.shoprunback.com",
     "icon": "https://icons.duckduckgo.com/ip3/consumer-path.shoprunback.com.ico",
     "slug": "shoprunback-consumer-path",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 606,
     "timeMonth": 496,
     "timeYear": 503,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-30": 0
+    }
   }
 ]
