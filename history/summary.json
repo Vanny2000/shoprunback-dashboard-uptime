@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1068,
-    "timeDay": 1557,
-    "timeWeek": 1189,
-    "timeMonth": 1053,
-    "timeYear": 1068,
+    "time": 1070,
+    "timeDay": 1222,
+    "timeWeek": 1237,
+    "timeMonth": 1059,
+    "timeYear": 1070,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/payment.shoprunback.com.ico",
     "slug": "shoprunback-payment",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 567,
-    "timeDay": 607,
-    "timeWeek": 601,
-    "timeMonth": 550,
-    "timeYear": 567,
-    "dailyMinutesDown": {
-      "2024-10-30": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 565,
+    "timeDay": 493,
+    "timeWeek": 602,
+    "timeMonth": 548,
+    "timeYear": 565,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shoprunback-Consumer-Path",
@@ -43,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/consumer-path.shoprunback.com.ico",
     "slug": "shoprunback-consumer-path",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 503,
-    "timeDay": 549,
-    "timeWeek": 589,
-    "timeMonth": 495,
-    "timeYear": 503,
-    "dailyMinutesDown": {
-      "2024-10-30": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 501,
+    "timeDay": 449,
+    "timeWeek": 598,
+    "timeMonth": 493,
+    "timeYear": 501,
+    "dailyMinutesDown": {}
   }
 ]
